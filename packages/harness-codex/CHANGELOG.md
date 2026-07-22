@@ -1,5 +1,11 @@
 # @ai-sdk/harness-codex
 
+## 1.0.42
+
+### Patch Changes
+
+- @ai-sdk/harness@1.0.40
+
 ## 1.0.41
 
 ### Patch Changes

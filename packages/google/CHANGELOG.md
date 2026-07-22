@@ -1,5 +1,11 @@
 # @ai-sdk/google
 
+## 4.0.22
+
+### Patch Changes
+
+- 66b7151: fix(provider/google): preserve Gemini Live lifecycle events
+
 ## 4.0.21
 
 ### Patch Changes
