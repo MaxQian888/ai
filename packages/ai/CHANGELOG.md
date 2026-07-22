@@ -1,5 +1,11 @@
 # ai
 
+## 6.0.234
+
+### Patch Changes
+
+- 49414cf: Return response piping promises so callers can catch stream read and write errors.
+
 ## 6.0.233
 
 ### Patch Changes
